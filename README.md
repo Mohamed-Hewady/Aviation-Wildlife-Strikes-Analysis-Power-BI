@@ -16,7 +16,7 @@
 ![Dashboard Screenshot](Dash.1.png)
 
 ## Dashboard 2
-![Dashboard Screenshot](https://github.com/MohammedHewady/Excel-Aircraft-Wildlife-Analysis/blob/main/Dashboard%202.jpg?raw=true)
+![Dashboard Screenshot](Dash.2.png)
 # Power BI Dashboard
 
 [![View Power BI Report](https://img.shields.io/badge/PowerBI-View%20Dashboard-yellow?logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiZjFkMzc1YzktYTgwMC00NWQ2LThkZTgtZTFlZGQ5Y2VjYzU3IiwidCI6IjQyYTNiN2QwLTAwMzItNDQ4Zi05MTgxLTU2ZWI3ZjQ1MmMyZCJ9)
