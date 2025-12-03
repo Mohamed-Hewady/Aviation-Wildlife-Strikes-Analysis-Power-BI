@@ -13,7 +13,7 @@
  • Weather and cloud conditions during incidents
 ## This update gives a much richer view of the data and helps show where the real risks are in aviation.
 ## Dashboard 1
-![Dashboard Screenshot](https://github.com/MohammedHewady/Excel-Aircraft-Wildlife-Analysis/blob/main/dashboard%201.jpg?raw=true)
+![Dashboard Screenshot](Dash.1.png)
 
 ## Dashboard 2
 ![Dashboard Screenshot](https://github.com/MohammedHewady/Excel-Aircraft-Wildlife-Analysis/blob/main/Dashboard%202.jpg?raw=true)
